@@ -1,0 +1,28 @@
+body {
+         	font-family: Arial, Helvetica, sans-serif;
+         }
+th,td{
+border: 1px solid black;
+padding: 5px;
+
+}
+table{
+border-collapse: collapse;
+
+}
+thead{
+color:#ffffff;
+background-color:#3056A0;
+}
+table > caption{
+font-weight: bold;
+}
+tfoot{
+  text-align: right;
+font-size: 0.75em;
+
+}
+
+tbody > tr:nth-child(even) {
+  background-color: #E6E6F5;
+}

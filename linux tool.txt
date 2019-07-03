@@ -1,0 +1,5 @@
+Simple online tool : http://copy.sh/v86/?profile=linux26
+
+https://linuxcontainers.org/lxd/try-it/
+
+Linux Basic commands : https://maker.pro/linux/tutorial/basic-linux-commands-for-beginners
