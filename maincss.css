@@ -1,0 +1,29 @@
+header {
+  background-color: #CD5C5C	;
+  padding: 30px;
+  text-align: center;
+  font-size: 35px;
+  color: white;
+}
+h2 {
+color: Black;
+}
+
+textarea {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
+}
+.footer {
+   margin: 0;
+   width: 100%;
+    background: #6e6e6e;
+    
+    text-align: center;
+
+}
